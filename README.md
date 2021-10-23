@@ -10,7 +10,7 @@
 - CSS3 (display-grid)
 - Javascript
 
-Foram implementadas funcionalidades além das requisitada como: 
+Foram implementadas funcionalidades além das requisitadas como: 
 
 - responsividade
 - som ao piscar a cor
