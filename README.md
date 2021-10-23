@@ -16,6 +16,6 @@ Foram implementadas funcionalidades além das requisitada como:
 - som ao piscar a cor
 - som ao clique da cor 
 
-### Observaçõe
+### Observações
 
 O jogo ao iniciar não faz o som da primeira cor piscada pois os navegadores a partir de uma determinada versão removeram o autoplay exigindo que o usuário executasse alguma ação e só assim as demais ações recebem o evento de play()
